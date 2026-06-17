@@ -1,5 +1,7 @@
 # MissionDesk
 
+https://github.com/sumaleesimmonds/missiondesk/blob/main/ezgif-58220fc6a2ad7dd4.gif?raw=true
+
 An AI-powered platform that combines grant matching, loan readiness scoring,
 and impact storytelling into one workspace for nonprofits and small businesses.
 
