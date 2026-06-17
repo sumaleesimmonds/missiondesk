@@ -16,6 +16,8 @@ This is a frontend MVP. The Claude API integration is fully coded but
 requires an API key to function live. For security reasons, no key is
 included in this public repository.
 
+🔗 [View live demo](https://sumaleesimmonds.github.io/missiondesk/)
+
 To run it with live AI responses:
 
   1. Clone this repo
